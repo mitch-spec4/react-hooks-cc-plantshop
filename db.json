@@ -4,25 +4,19 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 16.99
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 29
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
-    },
-    {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 7.99
     },
     {
       "id": 5,
@@ -34,13 +28,25 @@
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 55
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 54
+    },
+    {
+      "name": "Beauty Queen",
+      "image": "https://res.cloudinary.com/dmnytetf0/image/upload/v1731159503/ficuselasticaburgundy4figandfreya_ceac6ad8-ef53-4ac4-aff7-fe77b5e01382_bqes3l.png",
+      "price": 28,
+      "id": 9
+    },
+    {
+      "name": "Cacti",
+      "image": "https://res.cloudinary.com/dmnytetf0/image/upload/v1731247062/angel-wings-cactus-ab159de1fa074df592d01d4d6799d7c9_aq8s6u.jpg",
+      "price": 21,
+      "id": 10
     }
   ]
 }
